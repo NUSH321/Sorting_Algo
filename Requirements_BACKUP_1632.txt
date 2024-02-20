@@ -1,0 +1,11 @@
+pygame==2.0.1
+numpy==1.21.2
+matplotlib==3.4.3
+pytest==6.2.5
+coverage==6.0.2
+flake8==4.0.1
+<<<<<<< HEAD
+black==22.0.0
+=======
+black==22.1.1.
+>>>>>>> branch2
